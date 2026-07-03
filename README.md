@@ -1,11 +1,22 @@
+# Niranshu Mittal Portfolio
 
-  # Optimize Design Based on Image
+Modern portfolio website built using React, Vite and TailwindCSS.
 
-  This is a code bundle for Optimize Design Based on Image. The original project is available at https://www.figma.com/design/AWqfJXc5w6frtyCxiXkRvq/Optimize-Design-Based-on-Image.
+## Features
 
-  ## Running the code
+- AI Engineer Portfolio
+- Interactive UI
+- Responsive Design
+- Smooth Animations
+- Modern Components
 
-  Run `npm i` to install the dependencies.
+## Tech Stack
 
-  Run `npm run dev` to start the development server.
-  
+- React
+- Vite
+- TailwindCSS
+- TypeScript
+
+## Live Website
+
+Coming Soon
