@@ -19,4 +19,4 @@ Modern portfolio website built using React, Vite and TailwindCSS.
 
 ## Live Website
 
-Coming Soon
+niranshu-mittal.netlify.app
